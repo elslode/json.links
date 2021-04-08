@@ -1,6 +1,6 @@
 {
 "mode": "false",
-"links": {
+"linker": {
 "1": "link1",
 "2": "link2"
 },
